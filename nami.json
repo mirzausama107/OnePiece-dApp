@@ -1,0 +1,20 @@
+{
+    "name": "Nami",
+    "description": "Nami is the navigator of the Straw Hat Pirates, renowned for her expertise in cartography and weather manipulation. Her dream is to map the entire world. Nami is resourceful and uses the Clima-Tact to control weather in battle.",
+    "image": "https://gateway.pinata.cloud/ipfs/NAMI_IMAGE_CID",
+    "attributes": [
+      {
+        "trait_type": "Role",
+        "value": "Navigator"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Clever, Determined"
+      },
+      {
+        "trait_type": "Special Ability",
+        "value": "Weather Manipulation (Clima-Tact)"
+      }
+    ]
+  }
+  

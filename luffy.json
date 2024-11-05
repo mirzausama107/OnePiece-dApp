@@ -1,0 +1,20 @@
+{
+    "name": "Monkey D. Luffy",
+    "description": "Luffy is the adventurous and charismatic captain of the Straw Hat Pirates, with a dream of becoming the Pirate King. His personality is cheerful, fearless, and deeply loyal to his friends.",
+    "image": "https://gateway.pinata.cloud/ipfs/LUFFY_IMAGE_CID",
+    "attributes": [
+      {
+        "trait_type": "Role",
+        "value": "Captain"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Adventurous, Charismatic"
+      },
+      {
+        "trait_type": "Special Ability",
+        "value": "Rubber Powers (Gum-Gum Fruit)"
+      }
+    ]
+  }
+  

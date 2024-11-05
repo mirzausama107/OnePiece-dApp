@@ -1,0 +1,20 @@
+{
+    "name": "Vinsmoke Sanji",
+    "description": "Sanji is the chef of the Straw Hat Pirates, known for his exceptional cooking skills and his chivalrous nature. His dream is to find the All Blue, a legendary sea. Sanji is a skilled martial artist who uses his powerful legs in combat.",
+    "image": "https://gateway.pinata.cloud/ipfs/SANJI_IMAGE_CID",
+    "attributes": [
+      {
+        "trait_type": "Role",
+        "value": "Chef"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Chivalrous, Passionate"
+      },
+      {
+        "trait_type": "Special Ability",
+        "value": "Leg-based Combat (Black Leg Style)"
+      }
+    ]
+  }
+  

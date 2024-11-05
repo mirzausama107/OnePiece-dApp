@@ -1,0 +1,20 @@
+{
+    "name": "Nico Robin",
+    "description": "Robin is the archaeologist of the Straw Hat Pirates, with a deep knowledge of history and a calm demeanor. Her goal is to uncover the true history by finding the Rio Poneglyph. She possesses the power of the Hana Hana no Mi, allowing her to sprout body parts anywhere.",
+    "image": "https://gateway.pinata.cloud/ipfs/ROBIN_IMAGE_CID",
+    "attributes": [
+      {
+        "trait_type": "Role",
+        "value": "Archaeologist"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Intelligent, Calm"
+      },
+      {
+        "trait_type": "Special Ability",
+        "value": "Hana Hana no Mi (Flower-Flower Fruit)"
+      }
+    ]
+  }
+  

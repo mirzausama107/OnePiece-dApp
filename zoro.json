@@ -1,0 +1,20 @@
+{
+    "name": "Roronoa Zoro",
+    "description": "Zoro is a master swordsman and a loyal member of the Straw Hat Pirates. Known for his immense strength, determination, and ambition to become the world's greatest swordsman.",
+    "image": "https://gateway.pinata.cloud/ipfs/ZORO_IMAGE_CID",
+    "attributes": [
+      {
+        "trait_type": "Role",
+        "value": "Swordsman"
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Brave, Determined"
+      },
+      {
+        "trait_type": "Special Ability",
+        "value": "Three-Sword Style"
+      }
+    ]
+  }
+  
